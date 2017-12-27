@@ -1,0 +1,57 @@
+c:\users\acerb\source\repos\raikhan\raikhan\obj\Debug\MainWindow.g.cs
+c:\users\acerb\source\repos\raikhan\raikhan\obj\Debug\App.g.cs
+c:\users\acerb\source\repos\raikhan\raikhan\obj\Debug\raikhan_MarkupCompile.cache
+c:\users\acerb\source\repos\raikhan\raikhan\obj\Debug\raikhan_MarkupCompile.lref
+c:\users\acerb\source\repos\raikhan\raikhan\bin\Debug\raikhan.exe.config
+c:\users\acerb\source\repos\raikhan\raikhan\bin\Debug\raikhan.exe
+c:\users\acerb\source\repos\raikhan\raikhan\bin\Debug\raikhan.pdb
+c:\users\acerb\source\repos\raikhan\raikhan\bin\Debug\MySql.Data.dll
+c:\users\acerb\source\repos\raikhan\raikhan\bin\Debug\MySql.Data.xml
+c:\users\acerb\source\repos\raikhan\raikhan\obj\Debug\raikhan.csprojResolveAssemblyReference.cache
+c:\users\acerb\source\repos\raikhan\raikhan\obj\Debug\MainWindow.baml
+c:\users\acerb\source\repos\raikhan\raikhan\obj\Debug\raikhan.g.resources
+c:\users\acerb\source\repos\raikhan\raikhan\obj\Debug\raikhan.Properties.Resources.resources
+c:\users\acerb\source\repos\raikhan\raikhan\obj\Debug\raikhan.csproj.GenerateResource.Cache
+c:\users\acerb\source\repos\raikhan\raikhan\obj\Debug\raikhan.csproj.CoreCompileInputs.cache
+c:\users\acerb\source\repos\raikhan\raikhan\obj\Debug\raikhan.exe
+c:\users\acerb\source\repos\raikhan\raikhan\obj\Debug\raikhan.pdb
+C:\Users\alser\Desktop\raikhan\raikhan\bin\Debug\raikhan.exe.config
+C:\Users\alser\Desktop\raikhan\raikhan\bin\Debug\raikhan.exe
+C:\Users\alser\Desktop\raikhan\raikhan\bin\Debug\raikhan.pdb
+C:\Users\alser\Desktop\raikhan\raikhan\bin\Debug\MySql.Data.xml
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\raikhan.csprojResolveAssemblyReference.cache
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\MainWindow.g.cs
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\App.g.cs
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\raikhan_MarkupCompile.cache
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\raikhan_MarkupCompile.lref
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\MainWindow.baml
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\raikhan.g.resources
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\raikhan.Properties.Resources.resources
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\raikhan.csproj.GenerateResource.Cache
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\raikhan.csproj.CoreCompileInputs.cache
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\raikhan.exe
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\raikhan.pdb
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\Window1.g.cs
+C:\Users\alser\Desktop\raikhan\raikhan\obj\Debug\Window1.baml
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\raikhan.csprojResolveAssemblyReference.cache
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\MainWindow.g.cs
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\App.g.cs
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\raikhan_MarkupCompile.cache
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\raikhan_MarkupCompile.lref
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\raikhan.exe
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\raikhan.pdb
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\bin\Debug\raikhan.exe.config
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\bin\Debug\raikhan.exe
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\bin\Debug\raikhan.pdb
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\bin\Debug\MySql.Data.xml
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\menu.g.cs
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\MainWindow.baml
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\menu.baml
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\raikhan.g.resources
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\raikhan.Properties.Resources.resources
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\raikhan.csproj.GenerateResource.Cache
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\raikhan.csproj.CoreCompileInputs.cache
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\addme.g.cs
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\findme.g.cs
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\addme.baml
+C:\Users\alser\Desktop\неудавшийся проект\raikhan\raikhan\obj\Debug\findme.baml

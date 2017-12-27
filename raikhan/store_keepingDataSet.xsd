@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="store_keepingDataSet" targetNamespace="http://tempuri.org/store_keepingDataSet.xsd" xmlns:mstns="http://tempuri.org/store_keepingDataSet.xsd" xmlns="http://tempuri.org/store_keepingDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="store_keepingConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="store_keepingConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.raikhan.Properties.Settings.GlobalReference.Default.store_keepingConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="authorizationTableAdapter" GeneratorDataComponentClassName="authorizationTableAdapter" Name="authorization" UserDataComponentName="authorizationTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="store_keepingConnectionString (Settings)" DbObjectName="store_keeping.authorization" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT store_keeper_ID, store_keeper_login, store_keeper_password FROM authorization</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="barcode_tableTableAdapter" GeneratorDataComponentClassName="barcode_tableTableAdapter" Name="barcode_table" UserDataComponentName="barcode_tableTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="store_keepingConnectionString (Settings)" DbObjectName="store_keeping.barcode_table" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT barcode, name_of_product, price FROM barcode_table</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="stock_baseTableAdapter" GeneratorDataComponentClassName="stock_baseTableAdapter" Name="stock_base" UserDataComponentName="stock_baseTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="store_keepingConnectionString (Settings)" DbObjectName="store_keeping.stock_base" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT numbering_ID, barcode_id, providering_company, name_of_product, amount_of_product, balance, date_of_supply FROM stock_base</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="store_keepingDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="store_keepingDataSet" msprop:Generator_UserDSName="store_keepingDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="authorization" msprop:Generator_TableClassName="authorizationDataTable" msprop:Generator_TableVarName="tableauthorization" msprop:Generator_TablePropName="authorization" msprop:Generator_RowDeletingName="authorizationRowDeleting" msprop:Generator_RowChangingName="authorizationRowChanging" msprop:Generator_RowEvHandlerName="authorizationRowChangeEventHandler" msprop:Generator_RowDeletedName="authorizationRowDeleted" msprop:Generator_UserTableName="authorization" msprop:Generator_RowChangedName="authorizationRowChanged" msprop:Generator_RowEvArgName="authorizationRowChangeEvent" msprop:Generator_RowClassName="authorizationRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="barcode_table" msprop:Generator_TableClassName="barcode_tableDataTable" msprop:Generator_TableVarName="tablebarcode_table" msprop:Generator_TablePropName="barcode_table" msprop:Generator_RowDeletingName="barcode_tableRowDeleting" msprop:Generator_RowChangingName="barcode_tableRowChanging" msprop:Generator_RowEvHandlerName="barcode_tableRowChangeEventHandler" msprop:Generator_RowDeletedName="barcode_tableRowDeleted" msprop:Generator_UserTableName="barcode_table" msprop:Generator_RowChangedName="barcode_tableRowChanged" msprop:Generator_RowEvArgName="barcode_tableRowChangeEvent" msprop:Generator_RowClassName="barcode_tableRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="stock_base" msprop:Generator_TableClassName="stock_baseDataTable" msprop:Generator_TableVarName="tablestock_base" msprop:Generator_TablePropName="stock_base" msprop:Generator_RowDeletingName="stock_baseRowDeleting" msprop:Generator_RowChangingName="stock_baseRowChanging" msprop:Generator_RowEvHandlerName="stock_baseRowChangeEventHandler" msprop:Generator_RowDeletedName="stock_baseRowDeleted" msprop:Generator_UserTableName="stock_base" msprop:Generator_RowChangedName="stock_baseRowChanged" msprop:Generator_RowEvArgName="stock_baseRowChangeEvent" msprop:Generator_RowClassName="stock_baseRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
